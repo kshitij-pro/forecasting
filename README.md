@@ -8,3 +8,7 @@ time series decomposition
 visualizing ARIMA model prediction--
 
 ![](https://github.com/kshitij-pro/forecasting/blob/b42556d877848b9cea47d951fcc55db430838084/Screenshot%202021-08-18%20222439.png)
+
+ARIMA accuracy--
+
+![](https://github.com/kshitij-pro/forecasting/blob/c613bedbe291408eafb368dc6fad2fe541f562d5/Screenshot%202021-08-18%20222924.png)
