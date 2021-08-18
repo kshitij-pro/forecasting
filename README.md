@@ -12,3 +12,7 @@ visualizing ARIMA model prediction--
 ARIMA accuracy--
 
 ![](https://github.com/kshitij-pro/forecasting/blob/c613bedbe291408eafb368dc6fad2fe541f562d5/Screenshot%202021-08-18%20222924.png)
+
+Prophet model accuracy--
+
+![](https://github.com/kshitij-pro/forecasting/blob/0667881d074b9982bb3bba7d740d9fd02ef8e041/Screenshot%202021-08-18%20222956.png)
